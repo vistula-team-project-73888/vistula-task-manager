@@ -15,6 +15,10 @@ A minimal Task Manager application built with Supabase.
  ## Part B: Team Collaboration 
 - Incoming PR (Merged from partner): 
 - Outgoing PR (Merged into partner's repo): 
+## Team Collaboration Links
+
+- Pull Request to Partner Repository: https://github.com/vistula-team-project-71571/vistula-task-manager/pull/1
+- Pull Request received from Partner: https://github.com/vistula-team-project-73888/vistula-task-manager/pull/1
 
 ---
 
