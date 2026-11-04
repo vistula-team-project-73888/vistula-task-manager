@@ -1,9 +1,22 @@
 # vistula-task-manager
+A minimal Task Manager application built with Supabase.
 
+
+
+## Student Information
 - Student ID: 73888
 - Application URL: https://vistula-team-project-73888.github.io/vistula-task-manager/
-- Repository URL: https://github.com/vistula-team-project-73888/vistula-task-manager
 
-## Team Collaboration Links
-- Pull Request to Partner Repository: (To be added after Part B)
-- Pull Request received from Partner: (To be added after Part B)
+## Part A: Application Features
+- Frontend: HTML, CSS, JavaScript.
+- Database: Supabase.
+- Functionality: Create, Read, Update, and Delete (CRUD) tasks.
+
+ ## Part B: Team Collaboration 
+- Incoming PR (Merged from partner): 
+- Outgoing PR (Merged into partner's repo): 
+
+---
+
+*Developed for Module Team Project.*
+
